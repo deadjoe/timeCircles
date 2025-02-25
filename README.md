@@ -24,12 +24,12 @@ A beautiful and interactive time visualization web application that represents t
 
 ## Demo
 
-Simply open `time-circles-final.html` in your web browser to see the visualization in action.
+Simply open `index.html` in your web browser to see the visualization in action.
 
 ## Usage
 
 1. Clone the repository
-2. Open `time-circles-final.html` in a modern web browser
+2. Open `index.html` in a modern web browser
 3. Click different view modes to switch between time visualizations
 4. Current time unit will be highlighted with passed units dimmed
 
