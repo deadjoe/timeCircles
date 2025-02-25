@@ -25,6 +25,7 @@ A beautiful and interactive time visualization web application that represents t
 ## Demo
 
 Simply open `index.html` in your web browser to see the visualization in action.
+Or visit the Github pages of it directly in your browser. The url is https://deadjoe.github.io/timeCircles/
 
 ## Usage
 
