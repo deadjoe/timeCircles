@@ -9,7 +9,7 @@
 
 A beautiful and interactive time visualization web application that represents the passage of time through elegant circular elements. This project provides an intuitive way to visualize different time scales - from hours in a day to months in a year.
 
-![Time Circles Application Screenshot](timeCircles_screenshot.jpg)
+<img src="timeCircles_screenshot.jpg" alt="Time Circles Application Screenshot" width="600">
 
 ## Features
 
