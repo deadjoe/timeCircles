@@ -9,6 +9,8 @@
 
 A beautiful and interactive time visualization web application that represents the passage of time through elegant circular elements. This project provides an intuitive way to visualize different time scales - from hours in a day to months in a year.
 
+![Time Circles Application Screenshot](timeCircles_screenshot.jpg)
+
 ## Features
 
 - 🕒 Multiple time visualization modes:
@@ -33,6 +35,23 @@ Or visit the Github pages of it directly in your browser. The url is https://dea
 2. Open `index.html` in a modern web browser
 3. Click different view modes to switch between time visualizations
 4. Current time unit will be highlighted with passed units dimmed
+
+## Installing as a PWA on Mobile Devices
+
+### For iOS (iPhone/iPad):
+1. Open Safari and visit https://deadjoe.github.io/timeCircles/
+2. Tap the Share button (📤) at the bottom of the screen
+3. Scroll down and tap "Add to Home Screen"
+4. Give your PWA a name or keep the default name
+5. Tap "Add" to install the app on your home screen
+
+### For Android:
+1. Open Chrome and visit https://deadjoe.github.io/timeCircles/
+2. Tap the three-dot menu (⋮) in the top-right corner
+3. Tap "Add to Home screen"
+4. Follow the prompts to install the PWA
+
+Once installed, you can launch the Time Circles app directly from your home screen like any other app!
 
 ## Technical Details
 
